@@ -1,3 +1,3 @@
 # todo-app
 
-#### Made with ReactJS
+### Made with ReactJS
